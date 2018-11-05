@@ -33,3 +33,7 @@ See; really simple.
 # The Future of PrintLang
 
 I might add more to PrintLang in the future, but I am not entirely sure yet.
+
+# Extra Credits
+
+Shout out to `howCode` on YouTube for the tutorials on creating a lexer in Python. You should check it out, it's really good.
