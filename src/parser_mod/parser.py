@@ -11,6 +11,6 @@ class Parser(object):
                 print(string)
                 index += 2
             else:
-                print("ERROR: Could not find valid line of TeraBASIC code.")
+                print("ERROR: Could not find valid line of PrintLang code.")
                 exit(0)
             
