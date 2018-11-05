@@ -7,7 +7,7 @@ Any use of this interpreter outside of you just wanting to play around with Prin
 
 # Syntax
 
-Lol there's really nothing to the syntax, it's exactly like BASIC:
+There's really nothing to the syntax, it's exactly like BASIC:
 ```bas
 PRINT "Hello, world!"
 ```
