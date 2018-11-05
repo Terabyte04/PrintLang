@@ -17,16 +17,16 @@ And that's about it, really.
 
 Running a PrintLang program is *extremely* easy. All you have to do is:
   - Have Python 3 installed
-  - Have a source file for PrintLang, of which the extension is `.pl`
+  - Have a source file for PrintLang, of which the extension is `.prl`
   - Have the interpreter on your machine
 
 That's really it. A PrintLang file can be run by entering the following command into a MacOS/Linux/UNIX terminal:
 ```
-python3 main.py program.pl
+python3 main.py program.prl
 ```
 On Windows
 ```
-py main.py program.pl
+py main.py program.prl
 ```
 See; really simple.
 
